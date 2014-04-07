@@ -4145,7 +4145,7 @@ module.exports = [
    {
       "id":570,
       "name":"Tinkmaster Overspark",
-      "description":"<b>Battlecry<\/b>: <b>Transform<\/b> a minion into a 5\/5 Devilsaur or a 1\/1 Squirrel at random.",
+      "description":"<b>Battlecry<\/b>: <b>Transform<\/b> another random minion into a 5\/5 Devilsaur or a 1\/1 Squirrel at random.",
       "image":"http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/medium\/EX1_083.png",
       "class":"neutral",
       "type":"minion",
@@ -4153,8 +4153,8 @@ module.exports = [
       "race":"none",
       "set":"expert",
       "mana":3,
-      "attack":2,
-      "health":2,
+      "attack":3,
+      "health":3,
       "collectible":true,
       "effect_list":[
          {
@@ -8182,7 +8182,7 @@ module.exports = [
    {
       "id":1147,
       "name":"Nat Pagle",
-      "description":"At the end of your turn, you have a 50% chance to draw a card.",
+      "description":"At the start of your turn, you have a 50% chance to draw an extra card.",
       "image":"http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/medium\/EX1_557.png",
       "class":"neutral",
       "type":"minion",
