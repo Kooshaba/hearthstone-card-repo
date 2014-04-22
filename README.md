@@ -7,9 +7,9 @@ Nodejs library for hearthstone cards
 Version
 ----
 
-0.5
+0.6
 
-'Update to date with Hearthstone Patch 1.0.0.4482'
+'Update to date with Hearthstone Patch 1.0.0.5170'
 
 
 Installation
